@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 ---
 title: "Reproducible research project"
 author: "Mireia Marquillas"
 date: "9/2/2020"
 output: html_document
 ---
+=======
+>>>>>>> 6cbc5f8f91199aea8283e6ddab1f192ad9912f89
 ##Assignment Instructions
 1.Code for reading in the dataset and/or processing the data
 2.Histogram of the total number of steps taken each day
